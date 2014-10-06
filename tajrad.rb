@@ -1,0 +1,3 @@
+class Tajrad
+
+end
